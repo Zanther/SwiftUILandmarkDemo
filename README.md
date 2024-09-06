@@ -1,5 +1,5 @@
 This is a SwiftUI Landmarks Demo. It shows off UI animation, List creation, Json data parsing among other SwiftUI fundaments
 
-![image](https://github.com/user-attachments/assets/dd28901d-2a9e-4821-ace9-1003ea87f16f)![image](https://github.com/user-attachments/assets/d92e9229-e99e-4dfe-9f16-aac2faa86b02)![image](https://github.com/user-attachments/assets/64256d90-2605-42cc-90e6-10473f884e32)
+![image](https://github.com/user-attachments/assets/4271f72c-8dc5-4e24-8181-018a6b896412)![image](https://github.com/user-attachments/assets/739b5090-f5cd-41ec-b6f7-83b7d05ecf2b)![image](https://github.com/user-attachments/assets/9114c89b-ecb7-4e7e-bd43-f74532192012)
 
 
