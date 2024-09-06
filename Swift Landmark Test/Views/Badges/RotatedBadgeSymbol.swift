@@ -20,5 +20,5 @@ struct RotatedBadgeSymbol: View {
 
 
 #Preview {
-    RotatedBadgeSymbol(angle: Angle(degrees: 0))
+    RotatedBadgeSymbol(angle: Angle(degrees: 7))
 }
